@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://zblhero.github.io/blog/2017/12/02/hong-bao-ju-zhong-ju/</loc>
+    <lastmod>2017-12-02T23:40:18+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://zblhero.github.io/blog/2016/04/25/llewyn-davis/</loc>
     <lastmod>2016-04-25T01:37:05+08:00</lastmod>
     <priority>0.8</priority>
@@ -173,28 +179,28 @@
   
   <url>
     <loc>http://zblhero.github.io/about.html</loc>
-    <lastmod>2017-12-02T23:35:44+08:00</lastmod>
+    <lastmod>2017-12-02T23:41:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zblhero.github.io/</loc>
-    <lastmod>2017-12-02T23:35:44+08:00</lastmod>
+    <lastmod>2017-12-02T23:41:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://zblhero.github.io/blog/archives/</loc>
-    <lastmod>2017-12-02T23:35:44+08:00</lastmod>
+    <lastmod>2017-12-02T23:41:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zblhero.github.io/blog/categories/</loc>
-    <lastmod>2017-12-02T23:35:44+08:00</lastmod>
+    <lastmod>2017-12-02T23:41:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
